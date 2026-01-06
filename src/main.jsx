@@ -37,4 +37,4 @@ function makeRoundFavicon(src) {
 }
 
 // Call it with your PNG path
-makeRoundFavicon("./src/assets/tab.png");
+makeRoundFavicon("/tab.png");
