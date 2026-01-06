@@ -69,7 +69,7 @@ const Footer = () => {
           {/* COPYRIGHT */}
           <div className="text-center md:text-right">
             <p className="text-xs text-gray-500 uppercase tracking-widest">
-              © {new Date().getFullYear()} GymGrowth Agency
+              © {new Date().getFullYear()} Muscle Media
             </p>
             <p className="text-xs text-gray-600 mt-2">
               Results vary. No guarantees.
